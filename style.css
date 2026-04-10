@@ -848,6 +848,18 @@ ul { list-style: none; }
     border: 1px solid rgba(119,123,180,0.25);
 }
 
+.project-badge.react {
+    background: rgba(97,218,251,0.12);
+    color: #61DAFB;
+    border: 1px solid rgba(97,218,251,0.25);
+}
+
+.project-badge.next {
+    background: rgba(255,255,255,0.12);
+    color: #ffffff;
+    border: 1px solid rgba(255,255,255,0.25);
+}
+
 .project-name {
     font-size: 1.8rem;
     font-weight: 700;
